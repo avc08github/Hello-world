@@ -1,6 +1,8 @@
-#include<iostream.h>
-#include<conio.h>
-void main
+import java.io.*;
+class sabka
 {
-cout<<"Hello world"<<endl;
+public static void main(String abc[])
+{
+System.out.println("Hello world");
+}
 }
